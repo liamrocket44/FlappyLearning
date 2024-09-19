@@ -24,7 +24,7 @@
 
 var Neuvol;
 var game;
-var FPS = 60;
+var FPS = 120;
 var maxScore=0;
 
 var images = {};
